@@ -79,12 +79,10 @@ public class GameBetter implements IGame {
    }
 
    private void playerCannotGoOutOfPenaltyBox() {
-      //getCurrentPlayer().setGettingOutOfPenaltyBox(false);
       printPlayerIsNotGettingOutPenalty();
    }
 
    private void playerCanGoOutOfPenaltyBox() {
-      //getCurrentPlayer().setGettingOutOfPenaltyBox(true);
       printPlayerIsGettingOutPenalty();
    }
 
