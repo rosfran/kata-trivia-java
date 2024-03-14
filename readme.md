@@ -1,3 +1,8 @@
+
+Adapted from https://github.com/victorrentea/kata-trivia-java
+
+Answers to common clean code issues, done by me: Rosfran Borges
+
 # Trivia Refactoring Kata
 Arranged by Victor Rentea
 
